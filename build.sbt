@@ -1,4 +1,4 @@
-name := "akka-streams-example"
+name := "scala-akka-stream-prototype"
 
 version := "0.1"
 
